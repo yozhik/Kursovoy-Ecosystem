@@ -1,0 +1,8 @@
+<UP,DOWN,RIGHT,LEFT> - to move through menu;
+<Esc> - press for EXIT;
+<ENTER> - press to confirm choice;
+<TAB> - press to switch between boxes;
+<SPACE> - press for multi choice;
+<backspace> - press to delete data;
+
+

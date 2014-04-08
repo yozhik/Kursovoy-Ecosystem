@@ -1,0 +1,21 @@
+To develop complex of programs for modeling ecosystem.
+
+If alfa = 0 - two populations do not cooperate, alfa > 0 foxes meet rabbits
+with probability proportional numbers of those and others.
+
+- To explore the conduct of ecosystem at alfa = 0.01 and different values r0 and f0.
+- To confirm circumstance that the conduct of the system is periodic.   
+
+Input data:
+- r0 = 300, f0 = 150;
+- r0 = 15,  f0 = 22;
+- r0, f0 = (2000; 20000);
+
+Output data:
+- system's period;
+- tables;
+- graphics;
+
+Content of course work:
+- individual task and explanatory note;
+- software on CD.
